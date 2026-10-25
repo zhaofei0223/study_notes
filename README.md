@@ -7,8 +7,5 @@ git add . && git status && git commit -m "upload modify" && git push -u origin z
 
 ## 网页地址
 
-个人仓库：[https://github.com/zhaofei0223/personal_notes/tree/zhaof](https://github.com/zhaofei0223/personal_notes/tree/zhaof)
+个人仓库：[https://github.com/zhaofei0223/study_notes/tree/zhaof](https://github.com/zhaofei0223/study_notes/tree/zhaof)
 
-你好
-
-123456

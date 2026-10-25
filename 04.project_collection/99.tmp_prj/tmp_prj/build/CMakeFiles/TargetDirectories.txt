@@ -1,3 +1,0 @@
-/root/zhaof_space/personal_notes/personal_notes/04.project_collection/99.tmp_prj/tmp_prj/build/CMakeFiles/tmp.dir
-/root/zhaof_space/personal_notes/personal_notes/04.project_collection/99.tmp_prj/tmp_prj/build/CMakeFiles/edit_cache.dir
-/root/zhaof_space/personal_notes/personal_notes/04.project_collection/99.tmp_prj/tmp_prj/build/CMakeFiles/rebuild_cache.dir
