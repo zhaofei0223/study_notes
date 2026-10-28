@@ -2,7 +2,7 @@
 
 ## 合入分支的git命令
 ```json5
-git add . && git status && git commit -m "upload modify" && git push -u origin zhaof
+git add . && git status && git commit -m "update at $(date +'%Y-%m-%d %H:%M:%S')" && git push -u origin zhaof
 ```
 
 ## 网页地址
